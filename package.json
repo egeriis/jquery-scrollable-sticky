@@ -1,22 +1,22 @@
 {
-  "name": "jquery-scrollable-sticky",
-  "title": "jQuery Scrollable Sticky",
-  "description": "A jQuery plugin which enables fixed positioned elements, that are higher than the viewport, to be scrolled.",
-  "author": "Ronni Egeriis Persson",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/egeriis/jquery-scrollable-sticky.git"
-  },
-  "homepage": "https://github.com/egeriis/jquery-scrollable-sticky",
-  "version": "0.1.0",
-  "devDependencies": {
-    "grunt": "~0.4.1",
-    "grunt-cli": "~0.1.13",
-    "grunt-contrib-jshint": "~0.8.0",
-    "grunt-contrib-concat": "~0.3.0",
-    "grunt-contrib-uglify": "~0.3.2"
-  },
-  "scripts": {
-    "test": "grunt travis --verbose"
-  }
+    "name": "jquery-scrollable-sticky",
+    "title": "jQuery Scrollable Sticky",
+    "description": "A jQuery plugin which enables fixed positioned elements, that are higher than the viewport, to be scrolled.",
+    "author": "Ronni Egeriis Persson",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/egeriis/jquery-scrollable-sticky.git"
+    },
+    "homepage": "https://github.com/egeriis/jquery-scrollable-sticky",
+    "version": "0.1.0",
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-cli": "~0.1.13",
+        "grunt-contrib-jshint": "~0.8.0",
+        "grunt-contrib-concat": "~0.3.0",
+        "grunt-contrib-uglify": "~0.3.2"
+    },
+    "scripts": {
+        "test": "grunt travis --verbose"
+    }
 }
