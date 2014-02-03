@@ -1,0 +1,30 @@
+{
+	"name": "scrollable-sticky",
+	"title": "jQuery Scrollable Sticky",
+	"description": "A jQuery plugin which enables fixed positioned elements, that are higher than the viewport, to be scrolled.",
+	"keywords": [
+		"jquery",
+		"sticky",
+		"scroll",
+		"plugins"
+	],
+	"version": "0.1.0",
+	"author": {
+		"name": "Ronni Egeriis Persson",
+		"email": "ronni@egeriis.me",
+		"url": "https://github.com/egeriis"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://egeriis.mit-license.org/"
+		}
+	],
+	"bugs": "https://github.com/egeriis/jquery-scrollable-sticky/issues",
+	"homepage": "https://github.com/egeriis/jquery-scrollable-sticky/",
+	"docs": "https://github.com/egeriis/jquery-scrollable-sticky#readme",
+	"download": "https://github.com/egeriis/jquery-scrollable-sticky/archive/master.zip",
+	"dependencies": {
+		"jquery": ">=1.4"
+	}
+}
