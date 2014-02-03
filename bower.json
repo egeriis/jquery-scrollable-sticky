@@ -11,7 +11,7 @@
 		"jquery",
 		"sticky",
 		"scroll",
-		"plugins"
+		"plugins",
 		"jquery-plugin",
 		"jquery-scrollable-sticky"
 	],
