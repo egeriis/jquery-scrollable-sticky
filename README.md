@@ -27,7 +27,7 @@ $('div.fixme').scrollableSticky();
 
 ## Demo
 
-Check [demo/index.html](demo/index.html). Clone or [grab a zip](./archive/master.zip), then open this file in your browser.
+Check [demo/index.html](demo/index.html). Clone or [grab a zip](https://github.com/egeriis/jquery-scrollable-sticky/archive/master.zip), then open this file in your browser.
 
 ## Options
 
