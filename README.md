@@ -1,6 +1,10 @@
 # jQuery Scrollable Sticky
+### Improve your fixed positioned vertical navigations
 
-A plugin for jQuery which makes elements fixed positioned, but scrollable as well, hopefully provided a slightly better user experience.
+You know those fixed positioned navigations, that are too long for your display to show all items at once? This is a jQuery plugin which provides a clever solution for you to keep these, without compromising your visitors experiences.
+
+[Live demo](http://jsfiddle.net/4VyZ7/embedded/result/)
+
 
 ## Download
 
