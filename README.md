@@ -11,6 +11,8 @@ You know those fixed positioned navigations, that are too long for your display 
 - Uncompressed: [dist/jquery.scrollable-sticky.js](dist/jquery.scrollable-sticky.js)
 - Compressed: [dist/jquery.scrollable-sticky.min.js](dist/jquery.scrollable-sticky.min.js)
 
+Also available through [bower](bower.json).
+
 ## How to use
 
 1. Grab the JS file
