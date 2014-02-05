@@ -22,7 +22,7 @@ Also available through [bower](bower.json).
 Note: The element which you want to have fixed, doesn't have to be fixed already. The appropriate position will be calculated so the element will only move vertically.
 
 ```
-$('div.fixme').scrollableStick();
+$('div.fixme').scrollableSticky();
 ```
 
 ## Demo
